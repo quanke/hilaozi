@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>嗨，老子</title>
-    <link>http://hilaozi.com/</link>
-    <description>Recent content on 嗨，老子</description>
+    <title>Tag1 on 嗨，老子</title>
+    <link>http://hilaozi.com/tags/tag1/</link>
+    <description>Recent content in Tag1 on 嗨，老子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Wed, 24 Aug 2016 10:34:06 +0800</lastBuildDate>
-    <atom:link href="http://hilaozi.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hilaozi.com/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>关于嗨老子</title>
